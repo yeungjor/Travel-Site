@@ -1,0 +1,78 @@
+/* Banner */
+
+.banner {
+  background-color: #fefaf5;
+  display: flex;
+  justify-content: space-between;
+  padding: 8rem 5rem 4rem 5rem;
+}
+
+.banner__container {
+  width: 55%;
+  text-align: left;
+  margin: 3rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.banner__heading {
+  font-size: 2.5rem;
+  color: #335576;
+  margin: 0;
+}
+
+.banner__slogan {
+  margin: 0;
+  color: #335576;
+}
+
+.banner__hero {
+  height: 20rem;
+}
+
+.banner__btn {
+  color: #ffffff;
+  background-color: #db7a4e;
+  text-align: center;
+  padding: 0.7rem 2rem;
+  border-radius: 25px;
+  width: 11rem;
+}
+
+/* Recommendations */
+
+.recommendations {
+  margin: 3rem 0;
+}
+
+.recommendations__title {
+  color: #335576;
+  padding-left: 5rem;
+}
+
+.recommendations__list {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.recommendations__card {
+  position: relative;
+  margin: 1rem;
+}
+
+.recommendations__img {
+  width: 17rem;
+  border-radius: 5px;
+  border: 1px solid rgb(0, 0, 0, 0.2);
+  box-shadow: 0px 4px 4px rgb(0, 0, 0, 0.2);
+}
+
+.recommendations__card-title {
+  color: #ffffff;
+  position: absolute;
+  bottom: 0px;
+  right: 20px;
+}
