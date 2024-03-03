@@ -4,7 +4,7 @@
   background-color: #fefaf5;
   display: flex;
   justify-content: space-between;
-  padding: 8rem 5rem 4rem 5rem;
+  padding: 7rem 5rem 4rem 5rem;
 }
 
 .banner__container {
@@ -68,7 +68,7 @@
 }
 
 .recommendations__img {
-  width: 17rem;
+  width: 20vw;
   border-radius: 5px;
   border: 1px solid rgb(0, 0, 0, 0.2);
   box-shadow: 0px 4px 4px rgb(0, 0, 0, 0.2);
