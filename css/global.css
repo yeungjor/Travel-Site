@@ -90,7 +90,7 @@ footer {
 .social__container {
   display: flex;
   height: 1rem;
-  width: 150px;
+  width: 8rem;
   justify-content: space-between;
   margin-bottom: 1.5rem;
 }
