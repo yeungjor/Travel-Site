@@ -32,6 +32,7 @@ body,
 }
 
 .main-nav__list {
+  /* color: #335576; */
   display: flex;
   justify-content: space-between;
   margin: 0;
@@ -59,6 +60,11 @@ footer {
   color: #335576;
   background-color: #fefaf5;
   justify-content: space-evenly;
+}
+
+.contact__email {
+  color: #335576;
+  margin-top: 1rem;
 }
 
 .hours__container {
