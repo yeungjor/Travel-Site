@@ -43,8 +43,15 @@ a {
   text-decoration: none;
 }
 
+.main-nav__logo,
 .main-nav__item {
-  margin: 0.5rem 0;
+  padding: 0.5rem 0;
+}
+
+.main-nav__item:hover,
+.main-nav__logo:hover {
+  background-color: #db7a4e30;
+  border-radius: 20px;
 }
 
 .main-nav__item--active {
